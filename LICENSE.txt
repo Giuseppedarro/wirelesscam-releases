@@ -1,0 +1,167 @@
+================================================================================
+                        END USER LICENSE AGREEMENT (EULA)
+                                  WirelessCam
+================================================================================
+ 
+Copyright (c) 2026 Giuseppe D'Arro'. All rights reserved.
+ 
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING
+WIRELESSCAM. BY INSTALLING OR USING THE SOFTWARE YOU AGREE TO BE BOUND BY THE
+TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE
+SOFTWARE.
+ 
+--------------------------------------------------------------------------------
+1. DEFINITIONS
+--------------------------------------------------------------------------------
+ 
+"Software" means the WirelessCam application in binary form, including all its
+components: the Android app (.apk), the Windows desktop receiver, and the
+Windows background service.
+ 
+"Licensor" means Giuseppe D'Arro', the individual developer and copyright
+holder of WirelessCam.
+ 
+"You" or "User" means the individual who downloads, installs, or uses the
+Software.
+ 
+--------------------------------------------------------------------------------
+2. GRANT OF LICENSE
+--------------------------------------------------------------------------------
+ 
+Subject to the terms of this Agreement, the Licensor grants You a limited,
+non-exclusive, non-transferable, revocable license to:
+ 
+  a) Download and install the Software on your devices for personal and
+     internal business use.
+ 
+  b) Use the Software solely for its intended purpose: turning an Android
+     device into a wireless webcam for a Windows PC.
+ 
+No other rights are granted. All rights not expressly granted herein are
+reserved by the Licensor.
+ 
+--------------------------------------------------------------------------------
+3. RESTRICTIONS
+--------------------------------------------------------------------------------
+ 
+You may NOT:
+ 
+  a) Copy, reproduce, redistribute, or make the Software available on any
+     third-party platform, website, store, or mirror without the prior written
+     permission of the Licensor.
+ 
+  b) Decompile, disassemble, reverse engineer, or attempt to derive the source
+     code of the Software or any of its components, in whole or in part.
+ 
+  c) Modify, translate, adapt, or create derivative works based on the
+     Software.
+ 
+  d) Sell, sublicense, rent, lease, or otherwise transfer the Software or any
+     rights in it to any third party.
+ 
+  e) Sell the Software as a standalone product, bundle it with other commercial
+     software, or offer it as part of a paid service without prior written
+     permission from the Licensor.
+ 
+  f) Remove, alter, or obscure any copyright, trademark, or other proprietary
+     notices contained in the Software.
+ 
+--------------------------------------------------------------------------------
+4. INTELLECTUAL PROPERTY
+--------------------------------------------------------------------------------
+ 
+The Software is licensed, not sold. All title, intellectual property rights,
+and ownership rights in and to the Software are owned exclusively by the
+Licensor. The Software is protected by copyright laws and international
+copyright treaties. This Agreement does not transfer any ownership rights to
+You.
+ 
+--------------------------------------------------------------------------------
+5. DISTRIBUTION
+--------------------------------------------------------------------------------
+ 
+The Software may only be obtained from the official GitHub releases page of
+the Licensor, or through the official Google Play Store. Any copy of the
+Software obtained from an unauthorized source is not covered by this Agreement
+and may be unsafe. You may not redistribute
+the Software installers or binaries by any means, including but not limited
+to file sharing, third-party stores, or hosting services.
+ 
+--------------------------------------------------------------------------------
+6. DISCLAIMER OF WARRANTIES
+--------------------------------------------------------------------------------
+ 
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+THE LICENSOR EXPRESSLY DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO
+IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT. THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE
+ERROR-FREE, UNINTERRUPTED, OR FREE OF HARMFUL COMPONENTS.
+ 
+--------------------------------------------------------------------------------
+7. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+ 
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, LOSS OF PROFITS,
+SYSTEM CRASHES, HARDWARE DAMAGE, OR INTERRUPTION OF BUSINESS, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF THE
+LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+ 
+THE LICENSOR'S TOTAL CUMULATIVE LIABILITY SHALL NOT EXCEED ZERO EUROS (EUR 0),
+AS THE SOFTWARE IS PROVIDED FREE OF CHARGE.
+ 
+You acknowledge that the Software installs a background service on Windows and
+interfaces with your device's camera. You use the Software at your own risk.
+ 
+--------------------------------------------------------------------------------
+8. PRIVACY
+--------------------------------------------------------------------------------
+ 
+The Software does not collect, transmit, or store any personal data, usage
+statistics, or telemetry. All video streaming occurs locally on your network
+between your Android device and your Windows PC. No data is sent to the
+Licensor or any third party.
+ 
+--------------------------------------------------------------------------------
+9. UPDATES AND MODIFICATIONS
+--------------------------------------------------------------------------------
+ 
+The Licensor may release updated versions of the Software at their discretion.
+This Agreement applies to all versions of the Software. The Licensor reserves
+the right to modify the terms of this Agreement for future releases. Continued
+use of a new version of the Software constitutes acceptance of the updated
+terms.
+ 
+--------------------------------------------------------------------------------
+10. TERMINATION
+--------------------------------------------------------------------------------
+ 
+This Agreement is effective until terminated. Your rights under this Agreement
+will terminate automatically and without notice if You fail to comply with any
+of its terms. Upon termination, You must immediately cease all use of the
+Software and delete all copies in your possession.
+ 
+--------------------------------------------------------------------------------
+11. GOVERNING LAW
+--------------------------------------------------------------------------------
+ 
+This Agreement shall be governed by and construed in accordance with the laws
+of the Republic of Italy, without regard to its conflict of law provisions.
+Any dispute arising under this Agreement shall be subject to the exclusive
+jurisdiction of the courts of Italy.
+ 
+--------------------------------------------------------------------------------
+12. ENTIRE AGREEMENT
+--------------------------------------------------------------------------------
+ 
+This Agreement constitutes the entire agreement between You and the Licensor
+with respect to the Software and supersedes all prior or contemporaneous
+understandings, communications, or agreements, written or oral, regarding the
+Software.
+ 
+================================================================================
+          Copyright (c) 2026 Giuseppe D'Arro'. All rights reserved.
+    WirelessCam is not affiliated with or endorsed by any third-party software.
+================================================================================
