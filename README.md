@@ -3,7 +3,7 @@
 > Turn your Android phone into a high-quality wireless webcam for your Windows PC — no cables, no extra hardware.
 
 ![WirelessCam in action](link-to-your-screenshot-or-gif.gif) 
-*(Note: Replace this line with a link to a GIF or screenshot showing the Desktop and Android app connected)*
+*(Note: GIFs to be added)*
 
 Welcome to the official distribution repository for **WirelessCam**. This repository is used to host the latest compiled releases (installers and APKs) and track user issues. 
 
